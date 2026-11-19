@@ -1,0 +1,2 @@
+01_Dataset/*.csv
+!01_Dataset/olist_orders_dataset.csvgit rm --cached -r 01_Dataset
